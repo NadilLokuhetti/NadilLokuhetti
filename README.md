@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Objective:** Passionate about building and deploying software that enhances everyday life making tasks simpler, not lazier.<br>👯 **Collaboration:** I love contributing to projects that make a meaningful impact on individuals, teams, and communities.<br>🌱 **Currently Learning** Always exploring new technologies while deepening my understanding of what I already know—growth never stops.<br>⚡ **Fun Fact:** Almost anything can be automated from CI/CD pipelines to your morning standups (yes, really!).
+🔭 **Objective:** Passionate about building software that simplifies tasks and enhances everyday life.<br>👯 **Collaboration:** Enjoy contributing to projects that create meaningful impact for individuals, teams, and communities.<br>🌱 **Currently Learning** Continuously exploring new technologies while deepening my expertise—growth is constant.<br>⚡ **Fun Fact:** I believe almost anything can be automated, from CI/CD pipelines to morning standups (yes, really!).
 
 
 ## 🌐 Socials:
