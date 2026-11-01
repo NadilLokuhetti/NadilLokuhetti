@@ -1,10 +1,10 @@
 <h1>Hey 👋, I'm Nadil Lokuhetti!</h1>
 
-<a href="https://github.com/NadilLokuhetti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/1Y643FxSi4/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/nadil.lokuhetti/?igsh=MmJ3aWx4a2NkdWJ5#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nadil-lokuhetti04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:lokuhettinadil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/NadilLokuhetti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.facebook.com/share/1Y643FxSi4/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/nadil.lokuhetti/?igsh=MmJ3aWx4a2NkdWJ5#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/nadil-lokuhetti04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lokuhettinadil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
 
@@ -31,16 +31,16 @@ I hold a **BEng (Hons) in Software Engineering** from the Informatics Institute 
 ### 🛠️ Languages and Tools
 
 <p>
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,php,html,css,r" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,php,html,css,r"
+       alt="Java, Python, JavaScript, TypeScript, C#, PHP, HTML, CSS, R" />
 </p>
 <p>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,nextjs,nodejs,flask,laravel,vue" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,nextjs,nodejs,flask,laravel,vue"
+       alt="Spring Boot, .NET, Angular, React, Next.js, Node.js, Flask, Laravel, Vue.js" />
 </p>
 <p>
-  <!-- Databases, Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,bitbucket,postman,selenium,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,bitbucket,postman,selenium,docker"
+       alt="MySQL, Firebase, Git, GitHub, Bitbucket, Postman, Selenium, Docker" />
 </p>
 
 ---
@@ -48,16 +48,20 @@ I hold a **BEng (Hons) in Software Engineering** from the Informatics Institute 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800"
+       height="165" alt="Nadil Lokuhetti's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800"
+       height="165" alt="Nadil Lokuhetti's Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=NadilLokuhetti&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=NadilLokuhetti&theme=tokyonight&hide_border=true"
+       alt="Nadil Lokuhetti's GitHub Streak Stats"/>
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=NadilLokuhetti&icon=0&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=NadilLokuhetti&icon=0&color=6"
+       alt="Profile visitor count"/>
 </p>
