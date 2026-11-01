@@ -48,12 +48,12 @@ I hold a **BEng (Hons) in Software Engineering** from the Informatics Institute 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NadilLokuhetti&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=NadilLokuhetti&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
