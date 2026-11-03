@@ -48,9 +48,9 @@ I hold a **BEng (Hons) in Software Engineering** from the Informatics Institute 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800"
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NadilLokuhetti&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"
        height="165" alt="Nadil Lokuhetti's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800"
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadilLokuhetti&theme=tokyonight&hide_border=true&layout=compact"
        height="165" alt="Nadil Lokuhetti's Top Languages"/>
 </p>
 
@@ -62,6 +62,6 @@ I hold a **BEng (Hons) in Software Engineering** from the Informatics Institute 
 ---
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=NadilLokuhetti&icon=0&color=6"
+  <img src="https://komarev.com/ghpvc/?username=NadilLokuhetti&color=7957d5&style=flat-square&label=Profile+Views"
        alt="Profile visitor count"/>
 </p>
